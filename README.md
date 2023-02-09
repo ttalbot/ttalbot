@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Thomas, I am a Creative technologist, graduated in computer science in order to create delightful user experiences. I started my career with Flash, inspired by video games. Today I explore innovative methodologies like Lean UX or Design Sprint. I am passionate about mobile technologies and virtual reality. I am also a big supporter of maker culture.
+My name is Thomas, I bridge the gap between engineers and designers • I lead multi-disciplinary teams crafting better user-centered experiences with design thinking • I build design systems 🛠️ • Experimentation, learning and teamwork are my core values... I am also a big supporter of maker culture.
 
 ## Some stuff about me
 
